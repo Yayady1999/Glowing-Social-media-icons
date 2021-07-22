@@ -4,7 +4,8 @@
  
  
 ## HOW TO ACCESS
-- Click on the link to open the webiste
+https://yayady1999.github.io/Glowing-Social-media-icons/
+- Click on the link to open the webiste 
 - Once it opens , Hover over the icons to see the effect.
 - Have Fun
 
