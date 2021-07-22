@@ -11,4 +11,5 @@ https://yayady1999.github.io/Glowing-Social-media-icons/
 
 ## DOWNLOAD
 - For Linux users, Clone the repository using ``git clone`` command and open the files using local browser. 
-- This repo is functional also for windows. Download all files in the same order and you can access the tool by opening the .html file. You can also host it on some network and do the same
+- This repo is functional also for windows. Download all files in the same order and you can access the tool by opening the `.html` file to see the coding part. Open the ` .css `file to see the desgining part.
+-  You can also host it on some network and do the same.
