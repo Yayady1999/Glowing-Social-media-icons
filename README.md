@@ -5,7 +5,7 @@
  
 ## HOW TO ACCESS
 - Click on the link to open the webiste
-- Once it opens , use the calculator as required
+- Once it opens , Hover over the icons to see the effect.
 - Have Fun
 
 ## DOWNLOAD
