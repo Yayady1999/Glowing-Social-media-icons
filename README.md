@@ -1,5 +1,5 @@
 # Glowing-Social-media-icons
-
+A CSS effect on social media icons which were added using HTML. This is a hover effect, which means when you move the cursor over the icons the start to glow!!!
 
  
  
